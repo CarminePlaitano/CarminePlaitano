@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CarminePlaitano
+- 👋 Hi, I’m Carmine Plaitano
 - 💎 I love Web Development
 - 🌱 I’m learning more about Prestashop modules
 - :godmode: I would like to participate in new projects
