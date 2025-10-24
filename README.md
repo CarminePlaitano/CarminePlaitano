@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carmine Plaitano
 - 💎 I love Web Development
-- 🌱 I’m learning more about Prestashop modules
+- 🌱 I’m learning more about Full Stack development
 - :godmode: I would like to participate in new projects
 - 📫 How to reach me: c.plaitano@gmail.com
 
